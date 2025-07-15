@@ -26,5 +26,12 @@
         "password": "Test2",
         "expirydate": "30-07-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5e0f5322fa7576fc",
+        "username": "5e0f5322fa7576fc",
+        "password": "5e0f5322fa7576fc",
+        "expirydate": "30-07-2025",
+        "Allowoffline": false
     }
 ]
